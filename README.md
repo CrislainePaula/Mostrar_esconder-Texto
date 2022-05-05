@@ -2,5 +2,5 @@
 Como mostrar e esconder texto.
 
 ```bash
-  https://crislainepaula.github.io/ScrollbarpersonalizadonaDiv/
+  https://crislainepaula.github.io/Mostrar_esconder-Texto/
 ```
